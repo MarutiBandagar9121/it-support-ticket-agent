@@ -1,0 +1,21 @@
+# env files
+.env
+
+# virtual environment
+.venv/
+
+# data
+data/
+
+# python bytecode cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# jupyter
+.ipynb_checkpoints/
+
+# notebooks
+*.ipynb
